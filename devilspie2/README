@@ -1,0 +1,18 @@
+Devilspie2 is a window matching utility, allowing the user to 
+perform scripted actions on windows as they are created. For example 
+you can script a terminal program to always be positioned at a 
+specific screen position, or position a window on a specific 
+workspace. 
+
+Devilspie2 is based on the program Devilspie by Ross Burton. The 
+difference is that Devilspie2 has replaced the symbolic expressions 
+of the original with a LUA interpreter, making it much easier to 
+maintain and extend.
+
+Please note that the rules of Devilspie2 is not compatible with the 
+symbolic expressions of the original Devilspie.
+
+There is a README with the syntax in usr/doc/devilspie2-0.28/README, 
+as well as a manual (WIP) that can be found at
+
+https://www.gusnan.se/devilspie2/manual.php

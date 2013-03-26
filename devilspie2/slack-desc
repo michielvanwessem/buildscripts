@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+          |-----handy-ruler------------------------------------------------------|
+devilspie2: devilspie2 (A window matching utility)
+devilspie2: 
+devilspie2: Devilspie2 is a window matching utility, allowing the user to 
+devilspie2: perform scripted actions on windows as they are created. For 
+devilspie2: example you can script a terminal program to always be positioned  
+devilspie2: at a specific screen position, or position a window on a specific 
+devilspie2: workspace. Devilspie2 is based on the program Devilspie 
+devilspie2: by Ross Burton
+devilspie2:
+devilspie2: homepage: http://www.gusnan.se/devilspie2/
+devilspie2:
